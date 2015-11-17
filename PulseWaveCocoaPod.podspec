@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "PulseWaveCocoaPod"
-s.version          = "0.1.0"
+s.version          = "0.1.1"
 s.summary          = "PulseWave is a communication platform for pulwave readers"
 
 s.description      = <<-DESC

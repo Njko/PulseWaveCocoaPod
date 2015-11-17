@@ -13,7 +13,7 @@
 		887BEB6CC3B049AA7A41A1C02495065F /* PulseWaveCocoaPod.bundle in Resources */ = {isa = PBXBuildFile; fileRef = BFBE4149E68994CA58B9340217E61691 /* PulseWaveCocoaPod.bundle */; };
 		99444E292BAC395F3B6432DCE8EF8EC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		C68199A594A96C02627379E0DA751FBF /* Pods-PulseWaveCocoaPod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 382DEAD90CA96A686614040074EBD3AB /* Pods-PulseWaveCocoaPod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E624B5B11BFB8F050087B05D /* PulseWave.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B01BFB8F050087B05D /* PulseWave.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5B11BFB8F050087B05D /* PulseWaveCocoaPod.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B01BFB8F050087B05D /* PulseWaveCocoaPod.h */; settings = {ASSET_TAGS = (); }; };
 		E624B5BF1BFB8F1B0087B05D /* PWByteUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B21BFB8F1B0087B05D /* PWByteUtils.h */; settings = {ASSET_TAGS = (); }; };
 		E624B5C01BFB8F1B0087B05D /* PWByteUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5B31BFB8F1B0087B05D /* PWByteUtils.m */; settings = {ASSET_TAGS = (); }; };
 		E624B5C11BFB8F1B0087B05D /* PWDataReaderController.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B41BFB8F1B0087B05D /* PWDataReaderController.h */; settings = {ASSET_TAGS = (); }; };
@@ -66,7 +66,7 @@
 		BFBE4149E68994CA58B9340217E61691 /* PulseWaveCocoaPod.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PulseWaveCocoaPod.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		C900F54CCA9B0F642E98019570829A18 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9E2EABA104A7CBF2E5F8FCB39F2A03B /* Pods-PulseWaveCocoaPod_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PulseWaveCocoaPod_Tests-resources.sh"; sourceTree = "<group>"; };
-		E624B5B01BFB8F050087B05D /* PulseWave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PulseWave.h; sourceTree = "<group>"; };
+		E624B5B01BFB8F050087B05D /* PulseWaveCocoaPod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PulseWaveCocoaPod.h; sourceTree = "<group>"; };
 		E624B5B21BFB8F1B0087B05D /* PWByteUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PWByteUtils.h; sourceTree = "<group>"; };
 		E624B5B31BFB8F1B0087B05D /* PWByteUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PWByteUtils.m; sourceTree = "<group>"; };
 		E624B5B41BFB8F1B0087B05D /* PWDataReaderController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PWDataReaderController.h; sourceTree = "<group>"; };
@@ -204,7 +204,7 @@
 		DAF34E6A162EBC330C8CE67F54AC9776 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				E624B5B01BFB8F050087B05D /* PulseWave.h */,
+				E624B5B01BFB8F050087B05D /* PulseWaveCocoaPod.h */,
 				E624B5B21BFB8F1B0087B05D /* PWByteUtils.h */,
 				E624B5B31BFB8F1B0087B05D /* PWByteUtils.m */,
 				E624B5B41BFB8F1B0087B05D /* PWDataReaderController.h */,
@@ -245,7 +245,7 @@
 			files = (
 				E624B5C81BFB8F1B0087B05D /* PWEtactReader.h in Headers */,
 				7C89F8A54F42041027425F3084322C7C /* PulseWaveCocoaPod-umbrella.h in Headers */,
-				E624B5B11BFB8F050087B05D /* PulseWave.h in Headers */,
+				E624B5B11BFB8F050087B05D /* PulseWaveCocoaPod.h in Headers */,
 				E624B5C41BFB8F1B0087B05D /* PWEtactCmd.h in Headers */,
 				E624B5C31BFB8F1B0087B05D /* PWDataReaderDelegate.h in Headers */,
 				E624B5C61BFB8F1B0087B05D /* PWEtactCommands.h in Headers */,

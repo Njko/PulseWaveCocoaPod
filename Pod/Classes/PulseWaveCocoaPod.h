@@ -16,10 +16,10 @@ FOUNDATION_EXPORT const unsigned char PulseWaveVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PulseWave/PublicHeader.h>
 
-#import <PulseWave/PWByteUtils.h>
-#import <PulseWave/PWDataReaderController.h>
-#import <PulseWave/PWDataReaderDelegate.h>
-#import <PulseWave/PWEtactCmd.h>
-#import <PulseWave/PWEtactCommands.h>
-#import <PulseWave/PWEtactReader.h>
-#import <PulseWave/PWLoggerDecorator.h>
+#import <PulseWaveCocoaPods/PWByteUtils.h>
+#import <PulseWaveCocoaPods/PWDataReaderController.h>
+#import <PulseWaveCocoaPods/PWDataReaderDelegate.h>
+#import <PulseWaveCocoaPods/PWEtactCmd.h>
+#import <PulseWaveCocoaPods/PWEtactCommands.h>
+#import <PulseWaveCocoaPods/PWEtactReader.h>
+#import <PulseWaveCocoaPods/PWLoggerDecorator.h>
