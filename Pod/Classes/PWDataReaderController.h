@@ -7,9 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <CocoaLumberjack/CocoaLumberjack.h>
 #import <RedparkSerialFramework/RedparkSerialFramework.h>
 #import "PWEtactReader.h"
 #import "PWDataReaderDelegate.h"
+
 
 @interface PWDataReaderController : NSObject <RscMgrDelegate, PWEtactReaderDelegate>
 
