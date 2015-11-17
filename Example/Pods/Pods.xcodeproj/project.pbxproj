@@ -13,19 +13,19 @@
 		887BEB6CC3B049AA7A41A1C02495065F /* PulseWaveCocoaPod.bundle in Resources */ = {isa = PBXBuildFile; fileRef = BFBE4149E68994CA58B9340217E61691 /* PulseWaveCocoaPod.bundle */; };
 		99444E292BAC395F3B6432DCE8EF8EC1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		C68199A594A96C02627379E0DA751FBF /* Pods-PulseWaveCocoaPod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 382DEAD90CA96A686614040074EBD3AB /* Pods-PulseWaveCocoaPod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E624B5B11BFB8F050087B05D /* PulseWaveCocoaPod.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B01BFB8F050087B05D /* PulseWaveCocoaPod.h */; settings = {ASSET_TAGS = (); }; };
-		E624B5BF1BFB8F1B0087B05D /* PWByteUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B21BFB8F1B0087B05D /* PWByteUtils.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5B11BFB8F050087B05D /* PulseWaveCocoaPod.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B01BFB8F050087B05D /* PulseWaveCocoaPod.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E624B5BF1BFB8F1B0087B05D /* PWByteUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B21BFB8F1B0087B05D /* PWByteUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5C01BFB8F1B0087B05D /* PWByteUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5B31BFB8F1B0087B05D /* PWByteUtils.m */; settings = {ASSET_TAGS = (); }; };
-		E624B5C11BFB8F1B0087B05D /* PWDataReaderController.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B41BFB8F1B0087B05D /* PWDataReaderController.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5C11BFB8F1B0087B05D /* PWDataReaderController.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B41BFB8F1B0087B05D /* PWDataReaderController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5C21BFB8F1B0087B05D /* PWDataReaderController.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5B51BFB8F1B0087B05D /* PWDataReaderController.m */; settings = {ASSET_TAGS = (); }; };
-		E624B5C31BFB8F1B0087B05D /* PWDataReaderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B61BFB8F1B0087B05D /* PWDataReaderDelegate.h */; settings = {ASSET_TAGS = (); }; };
-		E624B5C41BFB8F1B0087B05D /* PWEtactCmd.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B71BFB8F1B0087B05D /* PWEtactCmd.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5C31BFB8F1B0087B05D /* PWDataReaderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B61BFB8F1B0087B05D /* PWDataReaderDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E624B5C41BFB8F1B0087B05D /* PWEtactCmd.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B71BFB8F1B0087B05D /* PWEtactCmd.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5C51BFB8F1B0087B05D /* PWEtactCmd.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5B81BFB8F1B0087B05D /* PWEtactCmd.m */; settings = {ASSET_TAGS = (); }; };
-		E624B5C61BFB8F1B0087B05D /* PWEtactCommands.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B91BFB8F1B0087B05D /* PWEtactCommands.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5C61BFB8F1B0087B05D /* PWEtactCommands.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5B91BFB8F1B0087B05D /* PWEtactCommands.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5C71BFB8F1B0087B05D /* PWEtactCommands.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5BA1BFB8F1B0087B05D /* PWEtactCommands.m */; settings = {ASSET_TAGS = (); }; };
-		E624B5C81BFB8F1B0087B05D /* PWEtactReader.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5BB1BFB8F1B0087B05D /* PWEtactReader.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5C81BFB8F1B0087B05D /* PWEtactReader.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5BB1BFB8F1B0087B05D /* PWEtactReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5C91BFB8F1B0087B05D /* PWEtactReader.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5BC1BFB8F1B0087B05D /* PWEtactReader.m */; settings = {ASSET_TAGS = (); }; };
-		E624B5CA1BFB8F1B0087B05D /* PWLoggerDecorator.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5BD1BFB8F1B0087B05D /* PWLoggerDecorator.h */; settings = {ASSET_TAGS = (); }; };
+		E624B5CA1BFB8F1B0087B05D /* PWLoggerDecorator.h in Headers */ = {isa = PBXBuildFile; fileRef = E624B5BD1BFB8F1B0087B05D /* PWLoggerDecorator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E624B5CB1BFB8F1B0087B05D /* PWLoggerDecorator.m in Sources */ = {isa = PBXBuildFile; fileRef = E624B5BE1BFB8F1B0087B05D /* PWLoggerDecorator.m */; settings = {ASSET_TAGS = (); }; };
 		EE64F54C34F92766C1E3675F4D3E1221 /* Pods-PulseWaveCocoaPod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7790F7836A3C9B24C8E32F27944EB8A4 /* Pods-PulseWaveCocoaPod_Tests-dummy.m */; };
 /* End PBXBuildFile section */
