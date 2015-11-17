@@ -1,0 +1,14 @@
+PODS:
+  - PulseWaveCocoaPod (0.1.0)
+
+DEPENDENCIES:
+  - PulseWaveCocoaPod (from `../`)
+
+EXTERNAL SOURCES:
+  PulseWaveCocoaPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PulseWaveCocoaPod: 0d703b05edcfe4db1f573e88f0b64fe55976e241
+
+COCOAPODS: 0.39.0
